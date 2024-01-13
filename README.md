@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @srsaravanakumar
-- 👀 I’m interested in ... angular.io react.dev vue.org
+- 👀 I’m interested in ... https://angular.io https://react.dev https://vue.org
 - 🌱 I’m currently learning ... current frontend and backend frameworks
 - 💞️ I’m looking to collaborate on ... metaframeworks
 - 📫 How to reach me ...
